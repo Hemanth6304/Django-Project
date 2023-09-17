@@ -1,2 +1,2 @@
 # Django-Project
-This is the django project developed by myself.
+Ecommerse Website bulit in Django
