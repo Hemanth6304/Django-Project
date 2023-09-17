@@ -1,5 +1,5 @@
 # Django-Project
-This is the django project developed by myself.
+Building an On-Line Shop.
 
 Ecommerce Application: Create a fully-featured on-line shop
 
